@@ -1,0 +1,24 @@
+{
+  "name": "remont",
+  "version": "1.0.0",
+  "description": "servise centers",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016https://github.com/Galifax/noderemont"
+  },
+  "author": "Galifax",
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.x",
+    "body-parser": "1.x",
+    "consolidate": "0.x",
+    "handlebars": "2.x",
+    "request": "2.x",
+    "nodemon": "^1.12.0"
+  }
+}
